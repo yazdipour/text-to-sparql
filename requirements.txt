@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+transformers==4.10.0
+tokenizers==0.10.3
+sacrebleu==1.5.1
+datasets==1.14.0
+bert_score==0.3.10
